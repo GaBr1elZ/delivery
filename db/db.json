@@ -1,0 +1,186 @@
+{
+  "pratos": {
+    "prato": [
+      {
+        "id": 1,
+        "nome": "Macarrão",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 30,
+        "foto": "/img/pratos-principais/macarrao.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "Panqueca",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 40,
+        "foto": "/img/pratos-principais/panqueca.jpg"
+      },
+      {
+        "id": 3,
+        "nome": "Lasanha",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 50,
+        "foto": "/img/pratos-principais/lasanha.jpg"
+      },
+      {
+        "id": 4,
+        "nome": "Sopa",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 30,
+        "foto": "/img/pratos-principais/sopa.jpg"
+      },
+      {
+        "id": 5,
+        "nome": "Pudim",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 30,
+        "foto": "/img/sobremesas/pudim.jpg"
+      }
+    ]
+  },
+  "pratosPrin": {
+    "prato": [
+      {
+        "id": 1,
+        "nome": "Macarrão",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 30,
+        "foto": "/img/pratos-principais/macarrao.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "Panqueca",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 40,
+        "foto": "/img/pratos-principais/panqueca.jpg"
+      },
+      {
+        "id": 3,
+        "nome": "Lasanha",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 50,
+        "foto": "/img/pratos-principais/lasanha.jpg"
+      },
+      {
+        "id": 4,
+        "nome": "Sopa",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 30,
+        "foto": "/img/pratos-principais/sopa.jpg"
+      },
+      {
+        "id": 5,
+        "nome": "Strogonoff",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 30,
+        "foto": "/img/pratos-principais/strogonoff.jpg"
+      },
+      {
+        "id": 6,
+        "nome": "Contra-Filé",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 30,
+        "foto": "/img/pratos-principais/contr-file.jpg"
+      }
+    ]
+  },
+  "sobremesas": {
+    "prato": [
+      {
+        "id": 1,
+        "nome": "Pave",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 30,
+        "foto": "/img/sobremesas/pave.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "Sorvete",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 40,
+        "foto": "/img/sobremesas/sorvete.jpg"
+      },
+      {
+        "id": 3,
+        "nome": "Chocolate",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 50,
+        "foto": "/img/sobremesas/chocolate.jpg"
+      },
+      {
+        "id": 4,
+        "nome": "Pudim",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 30,
+        "foto": "/img/sobremesas/pudim.jpg"
+      },
+      {
+        "id": 5,
+        "nome": "Doce de Leite",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 30,
+        "foto": "/img/sobremesas/doce-leite.jpg"
+      },
+      {
+        "id": 6,
+        "nome": "Brigadeiro",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 30,
+        "foto": "/img/sobremesas/brigadeiro.jpg"
+      }
+    ]
+  },
+  "bebidas": {
+    "prato": [
+      {
+        "id": 1,
+        "nome": "Refrigerante",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 30,
+        "foto": "/img/bebidas/refrigerante.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "Suco de Abacaxi",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 40,
+        "foto": "/img/bebidas/suco.jpg"
+      },
+      {
+        "id": 3,
+        "nome": "Vinho Tinto",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 50,
+        "foto": "/img/bebidas/vinho1.jpg"
+      },
+      {
+        "id": 4,
+        "nome": "Vinho Branco",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 30,
+        "foto": "/img/bebidas/vinho2.jpg"
+      },
+      {
+        "id": 5,
+        "nome": "Whisky",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 30,
+        "foto": "/img/bebidas/whisky.jpg"
+      },
+      {
+        "id": 6,
+        "nome": "Água",
+        "descricao": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet dignissimos, cupiditate aliquam quidem necessitatibus exercitationem sed impedit veniam",
+        "valor": 30,
+        "foto": "/img/bebidas/agua.jpg"
+      }
+    ]
+  },
+  "pedidos": {},
+  "pedidoFinalizado": {
+    "prato": {}
+  },
+  "endereco": {
+    "endereco": []
+  }
+}
